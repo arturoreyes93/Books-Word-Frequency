@@ -2,17 +2,7 @@
 
 #  Description: compares the frequency of words in two books
 
-#  Student Name: Arturo Reyes Munoz
-
-#  Student UT EID: ar48836
-
-#  Partner Name: no partner
-
-#  Partner UT EID: n/a
-
-#  Course Name: CS 303E
-
-#  Unique Number: 50865
+#  Name: Arturo Reyes Munoz
 
 #  Date Created: 04/28
 
